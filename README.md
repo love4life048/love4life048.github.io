@@ -1,2 +1,12 @@
 # love4life048.github.io
 my own repo
+------
+download file here:<br>
+<a href="1.script.module.codequick-1.2.0.zip">1.script.module.codequick-1.2.0.zip</a><br>
+<a href="2.script.module.requests-toolbelt-1.0.0.zip">2.script.module.requests-toolbelt-1.0.0.zip</a><br>
+<a href="3.script.module.cloudscraperkd-1.2.71.zip">3.script.module.cloudscraperkd-1.2.71.zip</a><br>
+<a href="4.script.module.resolveurl-5.1.143.zip">4.script.module.resolveurl-5.1.143.zip</a><br>
+<a href="5.plugin.video.vnmedia-5.7.0.zip">5.plugin.video.vnmedia-5.7.0.zip</a><br>
+<a href="plugin.Tool-KODIVN-5.0.0.zip">plugin.Tool-KODIVN-5.0.0.zip</a><br>
+<a href="plugin.program.openwizard-2.0.7.3.zip">plugin.program.openwizard-2.0.7.3.zip</a><br>
+<a href="plugin.video.vietmediaF-11.37.4.zip">plugin.video.vietmediaF-11.37.4.zip</a><br>
