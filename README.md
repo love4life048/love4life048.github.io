@@ -1,7 +1,3 @@
-# love4life048.github.io
-my own repo
-------
-download file here:<br>
 <a href="1.script.module.codequick-1.2.0.zip">1.script.module.codequick-1.2.0.zip</a><br>
 <a href="2.script.module.requests-toolbelt-1.0.0.zip">2.script.module.requests-toolbelt-1.0.0.zip</a><br>
 <a href="3.script.module.cloudscraperkd-1.2.71.zip">3.script.module.cloudscraperkd-1.2.71.zip</a><br>
