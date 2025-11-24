@@ -6,3 +6,4 @@
 <a href="plugin.Tool-KODIVN-5.0.0.zip">plugin.Tool-KODIVN-5.0.0.zip</a><br>
 <a href="plugin.program.openwizard-2.0.7.3.zip">plugin.program.openwizard-2.0.7.3.zip</a><br>
 <a href="plugin.video.vietmediaF-11.37.4.zip">plugin.video.vietmediaF-11.37.4.zip</a><br>
+<a href="adbtv-v1.12.apk">adbtv-v1.12.apk</a><br>
