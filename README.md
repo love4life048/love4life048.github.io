@@ -8,3 +8,4 @@
 <a href="plugin.video.vietmediaF-11.37.4.zip">plugin.video.vietmediaF-11.37.4.zip</a><br>
 <a href="adbtv-v1.12.apk">adbtv-v1.12.apk</a><br>
 <a href="script.module.codequick-1.0.3+matrix.1.zip">script.module.codequick-1.0.3+matrix.1.zip</a><br>
+<a href="inputstream.adaptive-21.5.17.zip">inputstream.adaptive-21.5.17.zip</a><br>
