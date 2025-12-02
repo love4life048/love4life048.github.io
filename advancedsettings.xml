@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<advancedsettings>
+    <network>
+        <!-- Buffer tất cả stream -->
+        <buffermode>1</buffermode>
+
+        <!-- Cache ~350 MB trong RAM (bytes) -->
+        <memorysize>367001600</memorysize>
+
+        <!-- Read factor vừa phải (số nguyên an toàn) -->
+        <readfactor>4</readfactor>
+
+        <!-- Chunk size an toàn cho mọi addon và server (1 MB) -->
+        <chunksize>1048576</chunksize>
+    </network>
+
+    <!-- Không dùng ổ cứng để cache (dùng RAM) -->
+    <cache>
+        <harddisk>false</harddisk>
+    </cache>
+
+    <!-- Giảm delay sau khi seek để phản hồi nhanh hơn -->
+    <video>
+        <delayafterseeking>0.1</delayafterseeking>
+    </video>
+</advancedsettings>
