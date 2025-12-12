@@ -1,26 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
 <advancedsettings>
-    <network>
-        <!-- Buffer tất cả nguồn internet (stream, remux, link trực tiếp) -->
-        <buffermode>1</buffermode>
-
-        <!-- Cache ~500 MB trong RAM (bytes) -->
-        <memorysize>524288000</memorysize>   <!-- 500 MB -->
-
-        <!-- Đọc nhanh hơn để lấp buffer cho 4K bitrate cao -->
-        <readfactor>4</readfactor>
-
-        <!-- Chunk size lớn giúp ổn định khi xem 4K REMUX -->
-        <chunksize>4194304</chunksize>        <!-- 4 MB -->
-    </network>
-
-    <!-- Dùng RAM thay vì bộ nhớ trong -->
     <cache>
-        <harddisk>false</harddisk>
+        <buffermode>1</buffermode>
+        
+        <memorysize>157286400</memorysize>
+        
+        <readfactor>10.0</readfactor>
     </cache>
 
-    <!-- Giảm delay khi tua phim 4K -->
+    <network>
+        <curlclienttimeout>20</curlclienttimeout> 
+        <httpclienttimeout>30</httpclienttimeout>
+        <cachechunksize>1048576</cachechunksize>
+    </network>
+
     <video>
-        <delayafterseeking>0.05</delayafterseeking>
+        <vdpautil>true</vdpautil>
+        <allowdtska>true</allowdtska>
     </video>
+    
 </advancedsettings>
