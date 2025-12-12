@@ -2,16 +2,16 @@
 <advancedsettings>
     <network>
         <!-- Buffer tất cả nguồn internet (stream, remux, link trực tiếp) -->
-        <buffermode>3</buffermode>
+        <buffermode>1</buffermode>
 
         <!-- Cache ~500 MB trong RAM (bytes) -->
         <memorysize>524288000</memorysize>   <!-- 500 MB -->
 
         <!-- Đọc nhanh hơn để lấp buffer cho 4K bitrate cao -->
-        <readfactor>20</readfactor>
+        <readfactor>4</readfactor>
 
         <!-- Chunk size lớn giúp ổn định khi xem 4K REMUX -->
-        <chunksize>2097152</chunksize>        <!-- 2 MB -->
+        <chunksize>4194304</chunksize>        <!-- 4 MB -->
     </network>
 
     <!-- Dùng RAM thay vì bộ nhớ trong -->
