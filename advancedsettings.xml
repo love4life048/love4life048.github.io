@@ -6,16 +6,9 @@
     </cache>
 
     <video>
-        <delay>1000</delay> 
         <vdpautil>true</vdpautil>
         <allowdtska>true</allowdtska>
     </video>
-
-    <audio>
-        <audiophile>
-            <passthroughdelay>100</passthroughdelay> 
-        </audiophile>
-    </audio>
     
     <network>
         <cachechunksize>1048576</cachechunksize>
