@@ -1,22 +1,26 @@
 <advancedsettings>
     <cache>
         <buffermode>1</buffermode>
-        
         <memorysize>157286400</memorysize>
-        
         <readfactor>10.0</readfactor>
     </cache>
 
-    <network>
-        <curlclienttimeout>20</curlclienttimeout> 
-        <httpclienttimeout>30</httpclienttimeout>
-        <cachechunksize>1048576</cachechunksize>
-    </network>
-
     <video>
-        <delay>1000</delay>
+        <delay>1000</delay> 
         <vdpautil>true</vdpautil>
         <allowdtska>true</allowdtska>
     </video>
+
+    <audio>
+        <audiophile>
+            <passthroughdelay>100</passthroughdelay> 
+        </audiophile>
+    </audio>
     
+    <network>
+        <cachechunksize>1048576</cachechunksize>
+        <curlclienttimeout>20</curlclienttimeout> 
+        <httpclienttimeout>30</httpclienttimeout>
+    </network>
+
 </advancedsettings>
