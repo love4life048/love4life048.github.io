@@ -13,3 +13,4 @@
 <a href="skin.estouchy-main.zip">skin.estouchy-main.zip</a><br>
 <a href="repository.kodifitzwell-0.0.1.zip">repository.kodifitzwell-0.0.1.zip</a><br>
 <a href="a4kSubtitles-repository.zip">a4kSubtitles-repository.zip</a><br>
+<a href="service.subtitles.localsubtitle-1.12.1.zip">service.subtitles.localsubtitle-1.12.1.zip</a><br>
