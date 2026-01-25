@@ -17,3 +17,4 @@
 <a href="script.module.future-1.0.0+matrix.1.zip">script.module.future-1.0.0+matrix.1.zip</a><br>
 <a href="repository.ivarbrandt-1.0.1.zip">repository.ivarbrandt-1.0.1.zip</a><br>
 <a href="remote.conf">remote.conf</a><br>
+<a href="repository.jamal2362-3.0.zip">repository.jamal2362-3.0.zip</a><br>
