@@ -1,19 +1,13 @@
 <advancedsettings>
     <cache>
         <buffermode>1</buffermode>
-        <memorysize>157286400</memorysize>
-        <readfactor>10.0</readfactor>
+        <memorysize>402653184</memorysize> <!-- 384MB -->
+        <readfactor>7.0</readfactor>
     </cache>
 
-    <video>
-        <vdpautil>true</vdpautil>
-        <allowdtska>true</allowdtska>
-    </video>
-    
     <network>
-        <cachechunksize>1048576</cachechunksize>
-        <curlclienttimeout>20</curlclienttimeout> 
+        <cachechunksize>1048576</cachechunksize> <!-- 1MB -->
+        <curlclienttimeout>20</curlclienttimeout>
         <httpclienttimeout>30</httpclienttimeout>
     </network>
-
 </advancedsettings>
